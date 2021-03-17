@@ -1,0 +1,15 @@
+{
+  "name": "malayalam-transliterate",
+  "version": "1.0.0",
+  "description": "Script to transliterate Malayalam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jc",
+  "license": "MIT",
+  "dependencies": {
+    "chunk-text": "^2.0.1",
+    "google-transliterate": "^0.1.0"
+  }
+}
