@@ -11,9 +11,9 @@ Node / npm
 ### Installing
 
 * Download/ Clone the project
-* cd malayalam-transliterate
+* run ``cd malayalam-transliterate``
 * update input.txt with your text
-* node index.js
+* run ``node index.js``
 
 ## Running the tests
 
