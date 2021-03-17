@@ -12,7 +12,8 @@ Node / npm
 
 Download/ Clone the project
 cd malayalam-transliterate
-node
+update input.txt with your text
+node index.js
 
 ## Running the tests
 
